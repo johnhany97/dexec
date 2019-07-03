@@ -138,7 +138,7 @@ var innerMap = map[string]*ContainerImage{
 	"rs":     {"Rust", "rs", "dexec/lang-rust", "1.0.1"},
 	"scala":  {"Scala", "scala", "dexec/lang-scala", "1.0.1"},
 	"sh":     {"Bash", "sh", "dexec/lang-bash", "1.0.1"},
-	"vb":     {"VisualBasic", "vb", "johnhany97/lang-vb", "1.0.0"},
+	"vb":     {"VisualBasic", "vb", "johnhany97/lang-vb", "1.0.1"},
 }
 
 // LookupImageByExtension returns the image for a given extension.
